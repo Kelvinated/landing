@@ -1,0 +1,11 @@
+.banner {
+  height: 500px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  background-image:linear-gradient(45deg, rgba(0,0,0,0.1), rgba(0,0,0,0.8) 100%), url("../../images/driving_banner.jpg");
+  background-position: center;
+  background-size: cover;
+  padding: 20px;
+  color: white;
+}

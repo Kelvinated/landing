@@ -1,0 +1,10 @@
+.btn-green {
+    padding: 10px;
+    color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    background: #ffa1ac;
+    padding-left: 20px;
+    padding-right: 20px;
+    transition:0.3s;
+}
